@@ -28,7 +28,7 @@ Industrium repositories fall into one of two categories:
 1. **Private repositories** embed or reference `LICENSE-PRIVATE` and display the following header in every source file:
 
    ```
-   Copyright (c) <YEAR> Altitude Interactive. All Rights Reserved.
+   Copyright (c) <YEAR>-Present Altitude Interactive. All Rights Reserved.
    Unauthorised copying, distribution, or modification is strictly prohibited.
    See: https://github.com/IndustriumMC/LICENSE/blob/main/LICENSE-PRIVATE
    ```
@@ -36,7 +36,7 @@ Industrium repositories fall into one of two categories:
 2. **Public repositories** embed or reference `LICENSE-PUBLIC` and display:
 
    ```
-   Copyright (c) <YEAR> Altitude Interactive.
+   Copyright (c) <YEAR>-Present Altitude Interactive.
    Licensed under the MIT License.
    See: https://github.com/IndustriumMC/LICENSE/blob/main/LICENSE-PUBLIC
    ```
