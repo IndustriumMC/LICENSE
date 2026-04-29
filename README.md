@@ -1,4 +1,4 @@
-# Industrium — Central License Reference
+# Industrium: Central License Reference
 
 This repository is the **single source of truth** for all licensing terms used across the Industrium project.  
 All Industrium repositories link back here so that maintainers and contributors always work from a consistent, up-to-date set of terms.
@@ -56,7 +56,7 @@ https://github.com/IndustriumMC/LICENSE/blob/main/LICENSE-PRIVATE
 
 ### For a public repository
 
-Copy `LICENSE-PUBLIC` into your repository root as `LICENSE` (no other action required — the MIT header is optional but encouraged).
+Copy `LICENSE-PUBLIC` into your repository root as `LICENSE` (no other action required; the MIT header is optional but encouraged).
 
 ---
 

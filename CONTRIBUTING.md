@@ -48,7 +48,7 @@ All contributors are expected to:
 2. Make your changes with clear, focused commits.
 3. Ensure your changes do not break existing tests or functionality.
 4. Open a **pull request** against the `main` branch and fill in the PR template.
-5. A core maintainer will review your PR. Please be patient — reviews may take several days.
+5. A core maintainer will review your PR. Please be patient; reviews may take several days.
 
 ---
 
