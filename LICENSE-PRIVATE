@@ -1,0 +1,105 @@
+INDUSTRIUM PROPRIETARY LICENSE
+Copyright (c) 2024–2026 Altitude Interactive. All Rights Reserved.
+
+================================================================================
+DEFINITIONS
+================================================================================
+
+"Altitude Interactive" refers to the legal entity that owns and operates the
+Industrium project (https://github.com/Altitude-Interactive/).
+
+"Software" refers to all source code, compiled artefacts, assets, configuration
+files, scripts, documentation, and any other materials contained in the
+repository to which this license is attached.
+
+"Authorised Personnel" means employees, contractors, or contributors who have
+been granted written permission by Altitude Interactive to access and work with
+the Software.
+
+================================================================================
+GRANT OF RIGHTS
+================================================================================
+
+No rights are granted to any individual or entity outside of Altitude
+Interactive and its Authorised Personnel. Specifically, no licence — express,
+implied, or otherwise — is granted to:
+
+  - copy, reproduce, or duplicate the Software in whole or in part;
+  - modify, adapt, translate, or create derivative works of the Software;
+  - distribute, publish, sublicence, sell, transfer, or otherwise make the
+    Software available to any third party;
+  - reverse engineer, decompile, or disassemble the Software;
+  - use the Software for any commercial or non-commercial purpose.
+
+================================================================================
+AUTHORISED PERSONNEL
+================================================================================
+
+Authorised Personnel may access and use the Software solely for the purpose of
+contributing to, maintaining, or operating the Industrium project on behalf of
+Altitude Interactive. Such access is subject to any additional agreements or
+confidentiality obligations in force between Altitude Interactive and the
+individual.
+
+Authorised access does not constitute ownership or an assignment of any
+intellectual-property rights.
+
+================================================================================
+INTELLECTUAL PROPERTY
+================================================================================
+
+Altitude Interactive retains full ownership of all intellectual property
+embodied in the Software, including but not limited to patents, copyrights,
+trademarks, and trade secrets. Nothing in this license or any related
+communication shall be construed as a transfer or waiver of such rights.
+
+================================================================================
+CONFIDENTIALITY
+================================================================================
+
+The Software and any information derived from it are confidential. Authorised
+Personnel must not disclose the Software or any part of it to any third party
+without the prior written consent of Altitude Interactive.
+
+================================================================================
+NO WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL ALTITUDE
+INTERACTIVE BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR, INABILITY TO USE THE
+SOFTWARE.
+
+================================================================================
+TERMINATION
+================================================================================
+
+Any rights granted to Authorised Personnel under this license terminate
+automatically upon:
+
+  (a) the end of the individual's authorised engagement with Altitude
+      Interactive; or
+  (b) a material breach of the terms of this license that is not remedied
+      within seven (7) days of written notice.
+
+Upon termination, the individual must immediately cease all use of the Software
+and destroy or return all copies in their possession.
+
+================================================================================
+GOVERNING LAW
+================================================================================
+
+This license shall be governed by and construed in accordance with applicable
+law. Any disputes arising under or in connection with this license shall be
+resolved in the jurisdiction of Altitude Interactive's principal place of
+operation.
+
+================================================================================
+CONTACT
+================================================================================
+
+For licensing enquiries or to request written authorisation, please contact
+a core maintainer via https://github.com/IndustriumMC/LICENSE or open an issue
+in this repository.
